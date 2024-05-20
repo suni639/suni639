@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔭 I work in business/product strategy and love working on data science and machine learning projects on the side
 - 🌱 I’m currently learning more about front-end development and federated learning
-- 👯 I’m particularly interested in learning about the intersection of AI and Blockchain
+- 👯 I’m particularly interested about the intersection of AI and Blockchain
 - 🤔 I’m looking for insights into AI & ML applications in finance
 - 📫 Reach me via my LinkedIn
 - ⚡ Fun fact: I cycled from the UK to China
