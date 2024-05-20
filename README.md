@@ -1,10 +1,10 @@
 # 💫 About Me:
-- 🔭 I work in business/product strategy and love working on data science and machine learning projects on the side
-- 🌱 I’m currently learning more about front-end development and federated learning
-- 👯 I’m particularly interested in the intersection of AI and Blockchain
-- 🤔 I’m looking for insights into AI & ML applications in finance
-- 📫 Reach me via my LinkedIn
-- ⚡ Fun fact: I cycled from the UK to China
+🔭 I work in business/product strategy and love working on data science and machine learning projects on the side
+🌱 I’m currently learning more about front-end development and federated learning
+👯 I’m particularly interested in the intersection of AI and Blockchain
+🤔 I’m looking for insights into AI & ML applications in finance
+📫 Reach me via my LinkedIn
+⚡ Fun fact: I cycled from the UK to China
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suni_adventures) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sunilkandola) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/suni639) 
