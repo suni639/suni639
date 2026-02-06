@@ -50,8 +50,18 @@
 
 ---
 
+## 🚀 Featured Projects
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" />
+### 🕵️‍♂️ Fraudsters Phase 3a
+> *Machine Learning analysis for fraud detection.*
+
+[**View Project on GitHub**](https://github.com/suni639/fraudsters_phase3a)
+</br>
+### ⚡ Clean Power 2030: The Green Energy Gap
+> *Energy sector analysis dashboard.*
+
+[**View Code**](https://github.com/suni639/NESO-flexibility-gap) | [**Launch Streamlit App**](https://neso-flexibility-gap-ngtgqkkhevm2uu4sa4ew2k.streamlit.app/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=suni639&icon=5&color=0)](https://visitcount.itsvg.in)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=suni639&color=2196F3&style=plastic&label=PROFILE+VIEWS)
