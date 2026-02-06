@@ -52,7 +52,7 @@
 
 ## 🚀 Featured Projects
 
-### 🕵️‍♂️ Fraudsters Phase 3a
+### 🕵️‍♂️ Fraudsters: Exploring Federated Learning with Blockchain
 > *Machine Learning analysis for fraud detection.*
 
 [**View Project on GitHub**](https://github.com/suni639/fraudsters_phase3a)
