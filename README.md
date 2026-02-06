@@ -62,7 +62,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=suni639&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src="https://github-readme-meme.vercel.app/" alt="Random Dev Meme" style="width: 100%;" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=suni639&icon=5&color=0)](https://visitcount.itsvg.in)
