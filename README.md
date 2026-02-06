@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I work in business/product strategy and love working on data science and machine learning projects on the side  
-👯 I’m particularly interested in the intersection of emerging tech in industry  
-🤔 I’m looking for insights into AI & ML applications in finance and energy  
-📫 Reach me via my LinkedIn  
-⚡ Fun fact: I cycled from the UK to China  
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=500&color=2196F3&center=true&vCenter=true&width=500&lines=Product+Strategy+%26+Ops;Entrepreneur;AI+%2F+ML+%26+Data+Science+Enthusiast;FinTech+%26+Energy+Explorer;Adventurer+(UK+to+China+solo+cycle)" alt="Typing SVG" />
+</a>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suni_adventures) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sunilkandola) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/suni639) 
